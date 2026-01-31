@@ -1,4 +1,4 @@
 # demo-file
 a demo repository.
 <br>
-author- tanmay pande
+author- tanmay pandeji
